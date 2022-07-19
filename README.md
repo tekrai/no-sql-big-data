@@ -7,5 +7,5 @@ Dataset utilisé : [Parcoursup](https://www.data.gouv.fr/fr/datasets/parcoursup-
 est intégré ensuite sur une base de données MongoDB.
 
 2 fichiers : 
-- `parcoursup.ipnyb` :  Notebook contenant certaines requêtes contenues dans le fichier JSON de parcoursup, placé dans une collection éponyme sur MongoDB
+- `parcoursup.ipnyb` : Notebook contenant certaines requêtes contenues dans le fichier JSON de parcoursup, placé dans une collection éponyme sur MongoDB
 - `report-parcoursup.pbix` : Rapport de l'analyse de parcoursup via PowerBi
